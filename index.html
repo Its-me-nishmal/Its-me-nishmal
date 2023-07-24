@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nishmal Vadakara</title>
+  <title>vCard - Personal Portfolio</title>
 
   <!--
     - favicon
@@ -1143,34 +1143,71 @@
           <h2 class="h2 article-title">Contact</h2>
         </header>
 
-        <section class="mapbox" data-mapbox>
-          <figure>
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd"
-              width="400" height="300" loading="lazy"></iframe>
-          </figure>
-        </section>
+
 
         <section class="contact-form">
 
-          <h3 class="h3 form-title">Contact Form</h3>
+          <form method="POST"
+            action="https://script.google.com/macros/s/AKfycbwY5asLV2792oxiNLfT_oRbJv966zWNrIWqWEgwXuYxLQypxOd-j97zh1_ZV-C9n7n0/exec"
+            id="submit-form" class="form" target="form-iframe" data-form>
+            <iframe name="form-iframe" style="display: none;"></iframe>
+            <div class="input-wrapper">
+              <input type="text" name="name" class="form-input" placeholder="Full name" data-form-input>
 
-          <form action="#" class="form" data-form>
+              <input type="text" name="place" class="form-input" placeholder="Place" required data-form-input>
+            </div>
 
             <div class="input-wrapper">
-              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+              <input type="tel" name="number" class="form-input" placeholder="Phone Number" required data-form-input>
 
               <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
             </div>
 
             <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
 
-            <button class="form-btn" type="submit" disabled data-form-btn>
+            <button class="form-btn" type="submit" value="submit" data-form-btn>
               <ion-icon name="paper-plane"></ion-icon>
               <span>Send Message</span>
             </button>
 
           </form>
+
+          <div class="modal" id="error-modal">
+            <div class="modal-content">
+              <span class="close">&times;</span>
+              <p id="modal-message"></p>
+            </div>
+          </div>
+
+          <style>
+            /* Styles for the modal */
+            .modal {
+              display: none;
+              position: fixed;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              background-color: rgba(0, 0, 0, 0.5);
+            }
+
+            .modal-content {
+              background-color: #fff;
+              width: 60%;
+              max-width: 400px;
+              margin: 15% auto;
+              padding: 20px;
+              border-radius: 5px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+              color: #333;
+              /* Change the text color here */
+            }
+
+            .close {
+              float: right;
+              cursor: pointer;
+            }
+          </style>
 
         </section>
 
@@ -1181,13 +1218,6 @@
   </main>
 
 
-
-
-
-
-  <!--
-    - custom js link
-  -->
   <script src="./assets/js/script.js"></script>
 
   <!--
