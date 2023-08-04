@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Its-me-nishmal
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Coding
-- 📫 How to reach me ..
+# Hi, I'm Nishmal! 👋
 
-<!---
-Its-me-nishmal/Its-me-nishmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub followers](https://img.shields.io/github/followers/Its-me-nishmal?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Its-me-nishmal?style=social)
+
+## My GitHub Stats 📊
+
+[![Nishmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Its-me-nishmal&show_icons=true&theme=tokyonight)](https://github.com/Its-me-nishmal)
+
