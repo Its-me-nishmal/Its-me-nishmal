@@ -4,5 +4,4 @@
 
 ## My GitHub Stats 📊
 
-[![Nishmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Its-me-nishmal&show_icons=true&theme=tokyonight)](https://github.com/Its-me-nishmal)
-
+[![Nishmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Its-me-nishmal&show_icons=true&theme=blueberry)](https://github.com/Its-me-nishmal)
