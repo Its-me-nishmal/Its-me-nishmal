@@ -11,4 +11,4 @@
 
 Here's a brief preview of my video:
 
-![Video Preview](https://github.com/Its-me-nishmal/Its-me-nishmal/raw/main/assets/videos/preview.gif)
+![Video Preview](https://github.com/Its-me-nishmal/Its-me-nishmal/raw/main/assets/videos/robo.mp4)
