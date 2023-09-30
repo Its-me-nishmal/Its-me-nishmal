@@ -2,16 +2,15 @@
 
 <!-- Badges -->
 <p align="left">
-  <img src="https://img.shields.io/github/followers/Its-me-nishmal?style=social&label=Followers&logo=github&color=blue" alt="Followers">
-  <img src="https://img.shields.io/github/stars/Its-me-nishmal?style=social&label=Stars&logo=github&color=yellow" alt="Stars">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FIts-me-nishmal&color=green" alt="Repos">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FIts-me-nishmal&color=orange" alt="Gists">
-  <img src="https://img.shields.io/github/last-commit/Its-me-nishmal/Its-me-nishmal?label=Contributions&logo=github&color=brightgreen" alt="Contributions">
+  <!-- Your badge code here -->
 </p>
 
-<!-- GitHub Stats card -->
-## My GitHub Stats 🎲
+<!-- Video -->
+## My Video 📽️
 
-![Nishmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Its-me-nishmal&show_icons=true&theme=radical&custom_title=GitHub%20Stats)
+You can watch my video below:
 
-
+<video width="320" height="240" controls autoplay loop>
+  <source src="assets/videos/robo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
