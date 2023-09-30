@@ -2,7 +2,8 @@
 
 <!-- Badges -->
 <p align="left">
-  <!-- Your badge code here -->
+  <!-- Your other badges here -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Its-me-nishmal.Its-me-nishmal" alt="Profile Views">
 </p>
 
 <!-- Video -->
