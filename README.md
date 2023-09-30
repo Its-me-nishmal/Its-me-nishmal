@@ -6,11 +6,8 @@
 </p>
 
 <!-- Video -->
-## My Video 📽️
+## My Video Preview 📽️
 
-You can watch my video below:
+Here's a brief preview of my video:
 
-<video width="320" height="240" controls autoplay loop>
-  <source src="assets/videos/robo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview](https://github.com/Its-me-nishmal/Its-me-nishmal/raw/main/assets/videos/preview.gif)
