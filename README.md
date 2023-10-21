@@ -14,11 +14,10 @@ I'm a passionate MERN stack developer based in Selfstack Calicut. With a strong 
 - Front-end Development: HTML, CSS, JavaScript, React
 - Back-end Development: Node.js, Express.js
 - Database Management: MongoDB, MySQL
-- API Integrations: RESTful and GraphQL
+- API Integrations: RESTful 
 - Problem Solving: Algorithmic thinking, Data Structures
 - Version Control: Git, GitHub
-- Project Management: Agile methodologies
-- Deployment: Heroku, Netlify, Vercel
+- Deployment: Heroku, Netlify, Github
 
 ## GitHub Badges 🛡️
 
@@ -37,7 +36,7 @@ Here are some of my notable projects:
 
 3. **Pincode Finder** - A web application that allows users to find location information based on pincode.
 
-4. **Portfolio Website** - My personal portfolio website to showcase my work and skills. You can check it out [here](#).
+4. **Portfolio Website** - My personal portfolio website to showcase my work and skills. You can check it out [here](https://its-me-nishmal.github.io/Its-me-nishmal/).
 
 ## Video Preview 📽️
 
