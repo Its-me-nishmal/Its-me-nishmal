@@ -6,8 +6,8 @@ I'm a passionate MERN stack developer based in Selfstack Calicut. With a strong 
 
 - 💼 MERN Stack Developer
 - 🏢 Selfstack, Calicut
-- 🌐 Portfolio: [[Nishmal Vadakara](https://its-me-nishmal.github.io/Its-me-nishmal/)]
-- 📧 Email: [Your Email Address]
+- 🌐 Portfolio: [[To Portfolio](https://its-me-nishmal.github.io/Its-me-nishmal/)]
+- 📧 Email: [[To mail](pnichu786@gmail.com)]
 
 ## Skills 🚀
 
