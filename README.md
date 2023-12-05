@@ -11,7 +11,7 @@ I'm a passionate MERN stack developer based in Selfstack Calicut. With a strong 
 
 ## Skills 🚀
 
-- Front-end Development: HTML, CSS, JavaScript, React
+- Front-end Development: HTML, CSS, JavaScript
 - Back-end Development: Node.js, Express.js
 - Database Management: MongoDB, MySQL
 - API Integrations: RESTful 
@@ -24,7 +24,6 @@ I'm a passionate MERN stack developer based in Selfstack Calicut. With a strong 
 - Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Its-me-nishmal)
 - GitHub Followers: ![GitHub Followers](https://img.shields.io/github/followers/Its-me-nishmal?style=social)
 - GitHub Stars: ![GitHub Stars](https://img.shields.io/github/stars/Its-me-nishmal?style=social)
-- GitHub Repositories: ![GitHub Repos](https://img.shields.io/badge/Repositories-10-brightgreen)
 
 ## Projects 🛠️
 
@@ -38,13 +37,9 @@ Here are some of my notable projects:
 
 4. **Portfolio Website** - My personal portfolio website to showcase my work and skills. You can check it out [here](https://its-me-nishmal.github.io/Its-me-nishmal/).
 
-## Video Preview 📽️
-
-Here's a brief preview of my work:
-![Video Preview](https://github.com/Its-me-nishmal/Its-me-nishmal/raw/main/assets/videos/robo.gif)
 
 ## Let's Connect 🌐
 
-I'm always open to exciting collaboration opportunities, problem-solving challenges, and connecting with fellow developers. Feel free to reach out via email at [Your Email Address] or connect with me on [LinkedIn](#LinkedIn Profile).
+I'm always open to exciting collaboration opportunities, problem-solving challenges, and connecting with fellow developers. Feel free to reach out via email at [pnichu786@gmail.com] or connect with me on [LinkedIn](#LinkedIn Profile).
 
 Looking forward to building amazing projects and solving problems together! 😄
