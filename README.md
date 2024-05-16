@@ -19,6 +19,7 @@ I'm a passionate MERN stack developer based in Selfstack Calicut. With a strong 
 - GitHub Followers: ![GitHub Followers](https://img.shields.io/github/followers/Its-me-nishmal?style=social)
 - GitHub Stars: ![GitHub Stars](https://img.shields.io/github/stars/Its-me-nishmal?style=social)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Its-me-nishmal&theme=whatsapp-light2&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=600&card_height=200&background=90%2C1F4037%2C99F2C8&ring=55EB97&fire=0BEB22&dates=C6FFB1&sideNums=55EB97&currStreakNum=55EB97&currStreakLabel=FFCE86&sideLabels=FFCE86)](https://git.io/streak-stats)
 ## Projects 🛠️
 
 Here are some of my notable projects:
