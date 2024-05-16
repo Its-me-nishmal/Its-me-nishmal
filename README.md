@@ -11,7 +11,7 @@ I'm a passionate MERN stack developer based in Selfstack Calicut. With a strong 
 
 ## Skills 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=1000&color=008080&multiline=true&repeat=false&random=false&width=650&height=170&lines=-+Front-end+Development%3A+HTML%2C+CSS%2C+JavaScript;-+Back-end+Development%3A+Node.js%2C+Express.js;-+Database+Management%3A+MongoDB%2C+MySQL;-+API+Integrations%3A+RESTful+;-+Problem+Solving%3A+Algorithmic+thinking%2C+Data+Structures;-+Version+Control%3A+Git%2C+GitHub;-+Deployment%3A+Heroku%2C+Netlify%2C+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1000&pause=1000&color=008080&multiline=true&repeat=false&random=false&width=650&height=160&lines=-+Front-end+Development%3A+HTML%2C+CSS%2C+JavaScript;-+Back-end+Development%3A+Node.js%2C+Express.js;-+Database+Management%3A+MongoDB%2C+MySQL;-+API+Integrations%3A+RESTful+;-+Problem+Solving%3A+Algorithmic+thinking%2C+Data+Structures;-+Version+Control%3A+Git%2C+GitHub;-+Deployment%3A+Heroku%2C+Netlify%2C+Github)](https://git.io/typing-svg)
 
 ## GitHub Badges 🛡️
 
