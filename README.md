@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&size=30&duration=3000&pause=1000&color=F7F7F7&background=95FF9100&random=false&width=435&lines=I+am+Nishmal+Vadakara+%F0%9F%91%8B;A+Mern+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=008080&random=false&width=435&lines=I+am+Nishmal+Vadakara+%F0%9F%91%8B;A+Mern+Stack+Developer)](https://git.io/typing-svg)
 
 I'm a passionate MERN stack developer based in Selfstack Calicut. With a strong foundation in web development and problem-solving skills, I specialize in building robust and efficient backend systems, integrating APIs, and creating fully functional web applications. Let's dive into my world of coding and problem-solving!
 
